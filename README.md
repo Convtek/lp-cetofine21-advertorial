@@ -1,15 +1,15 @@
-# Cétofine 21 · Advertorial comparatif (aperçu de relecture Convtek)
+# Cétofine 21 · Top 5 des meilleurs régimes après 50 ans (aperçu de relecture Convtek)
 
-Article sponsorisé "Régime protéiné après 50 ans : seule, en sachets ou avec un programme ? Le comparatif complet",
+Article sponsorisé "Top 5 des meilleurs régimes pour les femmes de plus de 50 ans en 2026" (remplace le comparatif "seule / sachets / programme" depuis le 2026-11-18),
 publié sur le média en marque blanche **Juste Mesure** (nom de travail).
 
 Aperçu : https://convtek.github.io/lp-cetofine21-advertorial/
 
 - Copie de relecture uniquement : `noindex, nofollow`, `robots.txt` en `Disallow: /`
 - Canonique, og:url et og:image pointent sur l'adresse github.io (à réécrire sur le domaine du média à la mise en ligne)
-- Les boutons envoient vers les fiches cetofine.com avec `utm_source=justemesure&utm_medium=advertorial&utm_campaign=regime-proteine-comparatif`
+- Les boutons envoient vers les fiches cetofine.com avec `utm_source=justemesure&utm_medium=advertorial&utm_campaign=top5-regimes-50-ans`
   et un `utm_content` par emplacement ; les paramètres d'une annonce (fbclid, gclid, utm_*) sont recopiés en priorité
-- Ce dépôt ne contient que le build. Sources : `Convtek OS/05-Exports/cetofine21-advertorial-femme50`
+- Ce dépôt ne contient que le build. Sources : `Convtek OS/05-Exports/cetofine21-advertorial-top5` (ancienne version : `cetofine21-advertorial-femme50`)
 
 ## Avant une vraie mise en ligne
 - Nom et domaine du média, page Mentions légales (éditeur du site), politique de confidentialité
@@ -18,7 +18,7 @@ Aperçu : https://convtek.github.io/lp-cetofine21-advertorial/
 
 ## Republier après une modification
 
-Depuis `05-Exports/cetofine21-advertorial-femme50` :
+Depuis `05-Exports/cetofine21-advertorial-top5` :
 
 ```
 npm run build
