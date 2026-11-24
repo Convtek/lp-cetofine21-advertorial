@@ -27,11 +27,17 @@ npm run build
 puis copier le contenu de `dist/` ici sans écraser `README.md`, `.nojekyll`, `robots.txt` ni le dossier `reprise-poids/`,
 remettre dans `index.html` la canonique, og:url et og:image github.io, commit et push sur `main`.
 
-## Deuxième article : « Pourquoi les kilos reviennent après un régime » (depuis le 2026-11-24)
+## Deuxième article : interview d'une diététicienne sur la reprise de poids (V2 du 2026-11-24)
+
+> **MAQUETTE : « Claire D. » est une diététicienne fictive**, créée à la demande de Cétofine 21 pour valider le format.
+> Elle doit être remplacée par une vraie diététicienne (nom, numéro RPPS ou ADELI, réponses validées par écrit)
+> **avant toute mise en ligne réelle ou diffusion publicitaire**.
+
+Première version (article explicatif) remplacée le 2026-11-24.
 
 Aperçu : https://convtek.github.io/lp-cetofine21-advertorial/reprise-poids/
 
-- Article explicatif au ton sourcé (Anses, HAS, Inserm, Assurance maladie), même habillage que le Top 5, signé Sylvie
+- Interview (maquette) au ton sourcé (Anses, HAS, Inserm, Assurance maladie), puis la méthode et le témoignage de Nathalie, même habillage que le Top 5
 - Build dans le dossier `reprise-poids/`. Sources : `Convtek OS/05-Exports/cetofine21-advertorial-reprise-poids`
 - Boutons : `utm_campaign=reprise-poids-50-ans`, mêmes règles que le Top 5
 - **Republier le Top 5 sans effacer `reprise-poids/`**, et inversement : chaque article ne remplace que ses propres fichiers
