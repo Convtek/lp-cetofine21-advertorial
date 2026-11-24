@@ -1,4 +1,4 @@
-# Cétofine 21 · Top 5 des meilleurs régimes après 50 ans (aperçu de relecture Convtek)
+# Cétofine 21 · Articles sponsorisés Juste Mesure (aperçu de relecture Convtek)
 
 Article sponsorisé "Top 5 des meilleurs régimes pour les femmes de plus de 50 ans en 2026" (remplace le comparatif "seule / sachets / programme" depuis le 2026-11-18),
 publié sur le média en marque blanche **Juste Mesure** (nom de travail).
@@ -24,5 +24,14 @@ Depuis `05-Exports/cetofine21-advertorial-top5` :
 npm run build
 ```
 
-puis copier le contenu de `dist/` ici sans écraser `README.md`, `.nojekyll` ni `robots.txt`,
+puis copier le contenu de `dist/` ici sans écraser `README.md`, `.nojekyll`, `robots.txt` ni le dossier `reprise-poids/`,
 remettre dans `index.html` la canonique, og:url et og:image github.io, commit et push sur `main`.
+
+## Deuxième article : « Pourquoi les kilos reviennent après un régime » (depuis le 2026-11-24)
+
+Aperçu : https://convtek.github.io/lp-cetofine21-advertorial/reprise-poids/
+
+- Article explicatif au ton sourcé (Anses, HAS, Inserm, Assurance maladie), même habillage que le Top 5, signé Sylvie
+- Build dans le dossier `reprise-poids/`. Sources : `Convtek OS/05-Exports/cetofine21-advertorial-reprise-poids`
+- Boutons : `utm_campaign=reprise-poids-50-ans`, mêmes règles que le Top 5
+- **Republier le Top 5 sans effacer `reprise-poids/`**, et inversement : chaque article ne remplace que ses propres fichiers
